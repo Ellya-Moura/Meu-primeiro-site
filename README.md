@@ -44,7 +44,7 @@
     <!-- Nova área que a IA criou para o seu e-mail -->
     <div class="contato">
         <h3>Entre em contato comigo:</h3>
-        <a class="email-link" href="mailto:ellyamoura02@email.com">ellyamoura02@email.com</a>
+        <a class="email-link" href="mailto:ellyamoura02@gmail.com">ellyamoura02@gmail.com</a>
     </div>
 
 </body>
